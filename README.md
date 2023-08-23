@@ -11,7 +11,6 @@
   <p>I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jamaica.</p>
   <p>:telescope: Currently developing my skills as a Software Engineer.</p>
   <p>:seedling: Currently learning ReactJS.</p>
-  <p>:mailbox: Available by <a href="mailto:khamisilawrencejm@gmail.com">Email</a> for queries.</p>
 </div>
 
 <br>
