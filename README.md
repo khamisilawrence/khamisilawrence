@@ -8,7 +8,7 @@
 <div align="center">
 <h2> 👨🏾‍💻 About Me 👨🏾‍💻 </h1>
   
-  <p>I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jamaica.</p>
+  <p>I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jamaica.</p>
   <p>:telescope: Currently developing my skills as a Software Engineer.</p>
   <p>:seedling: Currently learning ReactJS.</p>
 </div>
