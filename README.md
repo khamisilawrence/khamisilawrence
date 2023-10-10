@@ -55,7 +55,7 @@
 <div align="left">
 <h2> Contact ☎️ </h2>
   <ul>
-    <li> Email: <a href="mailto:khamisilawrence4@gmail.com" noopener noreferrer>My Email Address</a> </li>
+    <li> Email: <a href="mailto:khamisilawrencejm@gmail.com" noopener noreferrer>My Email Address</a> </li>
     <li> Linkedin: <a href="https://www.linkedin.com/in/khamisi-lawrence/" target="_blank" noopener noreferrer>My Linkedin Profile</a> </li>
   </ul>
 </div>
