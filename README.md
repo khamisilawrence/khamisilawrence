@@ -1,56 +1,42 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+there!+👋;+I'm+Khamisi+Lawrence!;" />
-  </h1>
-</div>
+![Khamisi-Lawrence](https://github.com/khamisilawrence/khamisilawrence/assets/130081031/d323a911-129b-4aad-9987-f0f66d6405f9)
 
-<br>
-  
-### 👨🏾‍💻 About Me
+<br />
 
-<p> • Self-taught Web Developer with 3 years of experience in Frontend Web Development. </p>
-<p> • I strive to improve my skills using next-gen technologies to develop interactive, responsive, and scalable web applications.</p>
-<p> • Currently learning React.Js</p>
+## About Me 👨🏾‍💻
+<p align="left">I'm a self-taught <b>Web Developer</b> with 3 years of coding experience who specializes in client-side development. <br />Currently, I am devoting time to learning how to efficiently utilize <em><b>React.js</b></em> & <em><b>Next.js</b></em> to craft responsive websites & dynamic web applications. <br />I aim to gain as much experience as possible within the coding world to become an expert in the field of front-end development.</p>
 
-<br>
+---
 
-### ⚒️ Technologies and Tools
+<br />
 
-#### Frontend
-<p> • React.js <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="15" height="15"/> </p>
-<p> • Typescript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="15" height="15" /> </p>
-<p> • JavaScript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="15" height="15"/> </p>
-<p> • Sass <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="15" height="15" /> </p>
-<p> • TailwindCSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" **alt="TailwindCSS" width="15" height="15" /> </p>
-<p> • CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="15" height="15"/> </p>
-<p> • HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="15" height="15"/> </p>
-  
-#### Backend
-  <p> • Next.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" title="Next JS" **alt="Next JS" width="15" height="15" /> </p>
-  <p> • Node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node JS" **alt="Node JS" width="15" height="15" /> </p>
+## Technologies and Tools ⚒️
 
-#### Source Control
-<p> • Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" **alt="Git" width="15" height="15"/> </p>
-<p> • Visual Studio Code <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" **alt="VS Code" width="15" height="15" /> </p>  
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="padding-right:10px;" />
 
-<br>
+<br />
 
-### 💻 Languages
+---
+
+<br />
+
+### My GitHub Stats ⚡ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khamisilawrence&layout=compact&theme=vision-friendly-dark)](https://github.com/khamisilawrence/github-readme-stats)
 
-<br>
-
-### ⚡ Stats
+<br />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khamisilawrence&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<br>
+<br />
 
-<p> Happy coding! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> </p>
-
-<!---
-khamisilawrence/khamisilawrence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
