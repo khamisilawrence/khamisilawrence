@@ -3,7 +3,7 @@
 <br />
 
 ## About Me 👨🏾‍💻
-<p align="left">I'm a self-taught <b>Web Developer</b> with 3 years of coding experience who specializes in client-side development. <br />Currently, I am devoting time to learning how to efficiently utilize <em><b>React.js</b></em> & <em><b>Next.js</b></em> to craft responsive websites & dynamic web applications. <br />I aim to gain as much experience as possible within the coding world to become an expert in the field of front-end development.</p>
+<p align="left">I'm a self-taught <b>Web Developer</b> who specializes in client-side development. <br />Currently, I am devoting time to learning how to efficiently utilize <em><b>React.js</b></em> & <em><b>Next.js</b></em> to craft responsive websites & dynamic web applications. <br />I aim to gain as much experience as possible within the coding world to become an expert in the field of front-end development.</p>
 
 ---
 
