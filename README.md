@@ -11,7 +11,7 @@
 ## Profile 👨🏾‍💻
 - Web developer who specializes in client-side development.
 - Experienced in leveraging HMTL, CSS, Javascript, Typescript, React.Js, Redux, and Next.Js.
-- Currently learning <em>Express.Js</em>.
+- Currently learning <b>Express.Js</b>.
 
 <br />
 
@@ -39,15 +39,19 @@
 
 ### GitHub Stats ⚡ 
 
-<img alt="Statistics of Technologies Used by Khamisi Lawrence" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamisilawrence&show_icons=true&hide_border=false&theme=vision-friendly-dark&layout=compact&langs_count=8" />
+<a href="https://github.com/khamisilawrence">
+  <img alt="Statistics of Technologies Used by Khamisi Lawrence" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamisilawrence&show_icons=true&hide_border=false&theme=vision-friendly-dark&layout=compact&langs_count=8" />
+</a>
 
 <!-- <img alt="Statistics of Technologies Used by Khamisi Lawrence" height="245em" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamisilawrence&title_color=FFBF00&text_color=C0C0C0&icon_color=4AB197&bg_color=121212" /> -->
 
 <br />
 
-### GitHub Streak 🔥 
+### GitHub Streak 📈 
 
-<img alt="GitHub Streak of Khamisi Lawrence" height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=khamisilawrence&theme=dark&background=000000" />
+<a href="https://github.com/khamisilawrence">
+  <img alt="GitHub Streak of Khamisi Lawrence" height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=khamisilawrence&theme=dark&background=000000" />
+</a>
 
 <br />
 
@@ -74,13 +78,13 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 11 Home</li>
-	    <li><b>Laptop: </b> Swift SFX14-42G</li>
-  	    <li><b>Browser: </b> Chrome & Firefox</li>
-	    <li><b>Terminal: </b> Bash / PowerShell</li>
-	    <li><b>Code Editor:</b> Visual Studio Code</li>
- 	    <li><b>Other Tools:</b> Postman, Slack, & Notion</li>
-	    <li><b>To Stay Updated:</b> TLDR and Hacker News</li>
+  	    <li> <b>OS</b> Windows 11 </li>
+	    <li> <b>Laptop:</b> Acer Swift SFX14-42G </li>
+  	    <li> <b>Browser:</b> Chrome & Firefox </li>
+	    <li> <b>Terminal:</b> Powershell </li>
+	    <li> <b>Code Editor:</b> Visual Studio Code </li>
+ 	    <li> <b>Other Tools:</b> Postman, Slack, & Notion </li>
+	    <li> <b>To Stay Updated:</b> TLDR and Hacker News </li>
 	</ul>
 </details>
 
