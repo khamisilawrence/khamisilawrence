@@ -10,7 +10,7 @@
 
 ## Profile 👨🏾‍💻
 - Web developer who specializes in client-side development.
-- Experienced in leveraging HMTL, CSS, Javascript, Typescript, React.Js, Redux, and Next.Js.
+- Experienced in leveraging React, TypeScript, JavaScript, and Next.js.
 - Currently learning <b>Express.Js</b>.
 
 <br />
