@@ -9,7 +9,7 @@
 <br />
 
 ## Profile 👨🏾‍💻
-- Web developer who specializes in client-side development.
+- Web developer who specializes in front-end development.
 - Experienced in leveraging React, TypeScript, JavaScript, and Next.js.
 - Currently learning <b>Express.Js</b>.
 
