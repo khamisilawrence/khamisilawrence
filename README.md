@@ -11,7 +11,7 @@
 ## Profile 👨🏾‍💻
 - Software developer specializing in web development.
 - 5+ years of experience in leveraging JavaScript to build dynamic web interfaces.
-- Currently learning <b>Express.Js</b>.
+- Currently learning <b>Data Structures and Algorithms</b>.
 
 <br />
 
