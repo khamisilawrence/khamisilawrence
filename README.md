@@ -65,7 +65,7 @@
 ### GitHub Stats ⚡ 
 
 <a href="https://github.com/khamisilawrence">
-  <img alt="Statistics of Technologies Used by Khamisi Lawrence" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamisilawrence&show_icons=true&hide_border=false&theme=vision-friendly-dark&layout=compact&langs_count=8" />
+  <img alt="Statistics of Technologies Used by Khamisi Lawrence" height="180em" src="" />
 </a>
 
 <!-- <img alt="Statistics of Technologies Used by Khamisi Lawrence" height="245em" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamisilawrence&title_color=FFBF00&text_color=C0C0C0&icon_color=4AB197&bg_color=121212" /> -->
