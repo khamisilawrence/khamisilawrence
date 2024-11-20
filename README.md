@@ -9,9 +9,14 @@
 <br />
 
 ## Profile 👨🏾‍💻
-- Software engineer specializing in web development.
-- 6+ years of experience in building and scaling dynamic web applications.
-- Currently learning <b>Data Structures and Algorithms</b>.
+- Software engineer with 6+ years of experience
+- Web development specialist
+- Proficient in designing and developing APIs
+- Skilled in building and scaling web applications
+- Well-versed in developing and maintaining responsive user interfaces
+- Passionate about documentation and technical writing
+- Native English speaker 
+- Currently learning <b>Data Structures and Algorithms</b>
 
 <br />
 
