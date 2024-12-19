@@ -26,8 +26,9 @@
   <h3>Programming Languages</h3>
   <code><a align="left" href="https://www.typescriptlang.org/" rel="nofollow noopener noreferrer" target="_blank" style="padding-right:10px;"><img alt="TypeScript" title="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" /></a></code>
   <code><a align="left" href="https://devdocs.io/javascript/" rel="nofollow noopener noreferrer" target="_blank" style="padding-right:10px;"><img alt="JavaScript" title="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a></code>
-  <code><a align="left" href="https://www.python.org/" rel="nofollow noopener noreferrer" target="_blank" style="padding-right:10px;"><img alt="Python" title="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" /></a></code>
   <code><a align="left" href="https://go.dev/" rel="nofollow noopener noreferrer" target="_blank" style="padding-right:10px;"><img alt="Golang" title="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" style="padding-right:10px;" /></a></code>
+  <code><a align="left" href="https://www.python.org/" rel="nofollow noopener noreferrer" target="_blank" style="padding-right:10px;"><img alt="Python" title="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" /></a></code>
+  <code><a align="left" href="https://www.julialang.org/" rel="nofollow noopener noreferrer" target="_blank" style="padding-right:10px;"><img alt="Julia" title="Julia" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" style="padding-right:10px;" /></a></code>
 </section>
 
 <section>
