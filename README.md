@@ -9,8 +9,8 @@
 <br />
 
 ## Profile 👨🏾‍💻
-- Software engineer with 6+ years of experience
-- Web development specialist
+- Software Engineer since 2018
+- Web Development specialist
 - Proficient in designing and developing APIs
 - Skilled in building and scaling web applications
 - Well-versed in developing and maintaining responsive user interfaces
