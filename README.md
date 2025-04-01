@@ -66,6 +66,8 @@
   <code><a align="left" href="https://www.docker.com/" rel="nofollow noopener noreferrer" target="_blank" style="padding-right:10px;"><img alt="Docker" title="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="padding-right:10px;" /></a></code>
   <code><a align="left" href="https://www.terraform.io/" rel="nofollow noopener noreferrer" target="_blank" style="padding-right:10px;"><img alt="Terraform" title="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" style="padding-right:10px;" /></a></code>
   <code><a align="left" href="https://www.jenkins.io/" rel="nofollow noopener noreferrer" target="_blank" style="padding-right:10px;"><img alt="Jenkins" title="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" /></a></code>
+  <code><a align="left" href="https://github.com/features/actions" rel="nofollow noopener noreferrer" target="_blank" style="padding-right:10px;"><img alt="GitHub Actions" title="GitHub Actions" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" style="padding-right:10px;" /></a></code>
+  <code><a align="left" href="https://about.gitlab.com/" rel="nofollow noopener noreferrer" target="_blank" style="padding-right:10px;"><img alt="GitLab" title="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" /></a></code>
 </section>
 
 <section style="margin-bottom:2rem;padding:10px;">
